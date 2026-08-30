@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://himanshi-0908.github.io/ai_portfolio/sitemap.xml
