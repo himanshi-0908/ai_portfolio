@@ -1,0 +1,8 @@
+# OS
+.DS_Store
+
+# local editor / tooling
+.claude/
+
+# working backups
+*.backup
